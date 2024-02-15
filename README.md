@@ -1,6 +1,10 @@
 # Accordion with Vue
 This is my awesome **Vue Accordion** 🚩
 
+## Demo
+
+Acess the demo [HERE](https://roberttmello-vue-accordion.vercel.app). 
+
 ## Project Setup
 
 ```sh
